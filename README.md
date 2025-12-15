@@ -13,7 +13,6 @@ I am currently **seeking full-time opportunities** where I can apply my technica
 ---
 
 ## 🛠️ Technical Skills
-## 🛠️ Technical Skills
 
 **Programming:** Python, C++, Core Java  
 
