@@ -13,13 +13,24 @@ I am currently **seeking full-time opportunities** where I can apply my technica
 ---
 
 ## 🛠️ Technical Skills
-**Programming:** Python,C++,Core-Java
+## 🛠️ Technical Skills
 
-**Machine Learning:** Linear Regression, Logistic Regression, Classification, Model Evaluation  
-**Deep Learning:** ANN, CNN, PyTorch  
-**Data Processing:** Pandas, NumPy  
-**Visualization:** Matplotlib, Seaborn  
-**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code  
+**Programming:** Python, C++, Core Java  
+
+**Machine Learning:**  
+Linear Regression, Logistic Regression, Classification, Model Evaluation  
+
+**Deep Learning:**  
+ANN, CNN, PyTorch  
+
+**Data Processing:**  
+Pandas, NumPy  
+
+**Visualization:**  
+Matplotlib, Seaborn  
+
+**Tools & Platforms:**  
+Git, GitHub, Jupyter Notebook, VS Code  
 
 ---
 
