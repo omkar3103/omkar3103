@@ -1,4 +1,4 @@
-# Hi 👋 I'm Omkar Kulkarni
+# Omkar Manoj Kulkarni
 
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
@@ -14,6 +14,7 @@ I am currently **seeking full-time opportunities** where I can apply my technica
 
 ## 🛠️ Technical Skills
 **Programming:** Python,C++,Core-Java
+
 **Machine Learning:** Linear Regression, Logistic Regression, Classification, Model Evaluation  
 **Deep Learning:** ANN, CNN, PyTorch  
 **Data Processing:** Pandas, NumPy  
