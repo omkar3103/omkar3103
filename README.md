@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Omkar Kulkarni
 
-<!--
-**omkar3103/omkar3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
+💻 Python • Machine Learning • Deep Learning (PyTorch)  
+📊 ANN • CNN • Regression • Classification  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 Professional Summary
+I am a **CDAC student** with a strong interest in **Machine Learning and Deep Learning**, focused on building practical, industry-oriented projects using Python and PyTorch.  
+I am currently **seeking full-time opportunities** where I can apply my technical skills, learn from real-world systems, and grow as a professional.
+
+---
+
+## 🛠️ Technical Skills
+**Programming:** Python  
+**Machine Learning:** Linear Regression, Logistic Regression, Classification, Model Evaluation  
+**Deep Learning:** ANN, CNN, PyTorch  
+**Data Processing:** Pandas, NumPy  
+**Visualization:** Matplotlib, Seaborn  
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code  
+
+---
+
+## 📂 Projects
+- 🚢 Titanic Survival Prediction (Classification)
+- 📈 Linear & Logistic Regression Models
+- 🧠 Artificial Neural Networks using PyTorch
+- 🧹 Data Cleaning & Feature Engineering Projects
+
+---
+
+## 🎓 Education
+**Post Graduate Diploma (CDAC)**  
+- Focus Areas: Programming, Data Structures, Machine Learning, Deep Learning  
+- Hands-on practice with real datasets and model building
+
+---
+
+## 🌱 Currently Learning
+- Advanced PyTorch & Model Training
+- CNN & Computer Vision Fundamentals
+- Regularization, Dropout & Optimization Techniques
+- Model Performance Evaluation
+
+---
+
+## 🎯 Career Objective
+To secure a **junior / entry-level role in Machine Learning, Data Science, or Software Development**, where I can contribute effectively, continuously learn, and build scalable solutions.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/omkar3103
+- LinkedIn: www.linkedin.com/in/omkarkulkarni07
+
+---
+
+⭐ *Focused on fundamentals, practical learning, and professional growth.*
