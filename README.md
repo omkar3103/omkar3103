@@ -26,7 +26,7 @@ ANN, CNN, PyTorch
 Pandas, NumPy  
 
 **Visualization:**  
-Matplotlib, Seaborn  
+Matplotlib
 
 **Tools & Platforms:**  
 Git, GitHub, Jupyter Notebook, VS Code  
