@@ -53,6 +53,7 @@ Git, GitHub, Jupyter Notebook, VS Code
 - CNN & Computer Vision Fundamentals
 - Regularization, Dropout & Optimization Techniques
 - Model Performance Evaluation
+- omkar manoj kulkarni
 
 ---
 
