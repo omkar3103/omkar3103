@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💼 Professional Summary :
+## 👨‍💼 Professional Summary 
 I am a **CDAC student** with a strong interest in **Machine Learning and Deep Learning**, focused on building practical, industry-oriented projects using Python and PyTorch.  
 I am currently **seeking full-time opportunities** where I can apply my technical skills, learn from real-world systems, and grow as a professional.
 
