@@ -1,5 +1,5 @@
 # Omkar Manoj Kulkarni 
-# Completed MCA from KIT Kolhaput
+# Completed MCA from KIT Kolhapur
 
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
