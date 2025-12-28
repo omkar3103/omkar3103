@@ -1,4 +1,4 @@
-# Omkar Will be successful 
+# Omkar going to be millionaire 
 
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
