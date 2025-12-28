@@ -3,7 +3,7 @@
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
 📊 ANN • CNN • Regression • Classification  
-Building LLM Agents 
+
 ---
 
 ## 👨‍💼 Professional Summary 
