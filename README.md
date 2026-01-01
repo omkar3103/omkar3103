@@ -1,4 +1,4 @@
-# Omkar Manoj Bhagyashree Kulkarni 
+# Omkar Manoj Bhagyshree Kulkarni 
 
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
