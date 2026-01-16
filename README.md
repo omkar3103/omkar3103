@@ -1,4 +1,4 @@
-# Omkar K
+# Omkar Manoj K
 
 🎓 CDAC Student | Actively Seeking Full-Time Opportunities  
 💻 Python • Machine Learning • Deep Learning (PyTorch)  
